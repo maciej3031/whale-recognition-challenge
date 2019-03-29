@@ -1,0 +1,6 @@
+data/nohup.out
+data/test/
+data/train/
+nohup.out
+__pycache__
+venv/
